@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 # --- Title ---
-st.title("📊 Dr Lal PathLabs — DCF Valuation Model")
+st.title(" Dr Lal PathLabs — DCF Valuation Model")
 st.markdown("An interactive discounted cash flow model estimating fair value per share, with sensitivity analysis on WACC and growth assumptions.")
 
 # --- Sidebar Inputs ---
